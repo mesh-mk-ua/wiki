@@ -5,7 +5,7 @@
 ## [FAQ](FAQ)
 
 ## Інтернет-адреса
-адреса сайту [mesh.mk.ua](mesh.mk.ua), дзеркало - [mesh.net.ua](mesh.net.ua).
+адреса сайту [mesh.mk.ua](https://mesh.mk.ua), дзеркало - [mesh.net.ua](https://mesh.net.ua).
 
 ## Локація
 на даний момент MyMesh розгорнут у м. Миколаєві, та присутній у м. Одеса 
