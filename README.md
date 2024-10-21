@@ -10,15 +10,19 @@
 ## Локація
 на даний момент MyMesh розгорнут у м. Миколаєві, та присутній у м. Одеса 
 
-## освновні дані для підключення
+## Основні дані для підключення
 
-| параметр     | значення     |
-| ------------ | ------------ |
-| Регіон       | `UA_433`     |
-| Канал        | `1`          |
-| Назва каналу | `mesh.mk.ua` |
-| Uplink       | `Enabled`    |
-| Downlink     | `Enabled`    |
+| параметр               | значення              |
+| ---------------------- | --------------------- |
+| Lora/Modem preset      | `LONG_FAST`           |
+| Lora/Регіон            | `UA_433`              |
+| Lora/Ok to MQTT        | `Enabled` (Ввімкнено) |
+| Lora/Hop limit         | `5`                   |
+| Channels/Індекс каналу | `0`                   |
+| Channels/Назва каналу  | `mesh.mk.ua`          |
+| Channels/Uplink        | `Enabled` (Ввімкнено) |
+| Channels/Downlink      | `Enabled` (Ввімкнено) |
+| Channels/PSK           | `X8BbQvKfE6WAJAoi6VVliBUO3A7n/tNa+NGt3zSZ5hQ=` |
 
 ## MQTT
 для підключення до нашого серверу MQTT потрібно звернутися до адміністратора мережі MyMesh
